@@ -1,4 +1,4 @@
-#Neural Networks Assignments
+# Neural Networks Assignments
 This repository contains my submissions for neural networks course assignments.
 
 It contains two models:
